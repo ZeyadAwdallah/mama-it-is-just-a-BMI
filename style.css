@@ -1,5 +1,7 @@
 body{
     background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    user-select: none;
 }
 *{
     margin: 0;
@@ -23,4 +25,7 @@ input{
     margin-top: 20px;
     width: 150px;
     height: 25px;
+}
+#result{
+margin-top: 20px;
 }
